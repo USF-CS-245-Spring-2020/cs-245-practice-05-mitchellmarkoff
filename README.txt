@@ -1,0 +1,1 @@
+I used quick sort because in practice assignment 04 I found that is was the fastest algorithm we had learned on large list on numbers
